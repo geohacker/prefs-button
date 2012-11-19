@@ -1,8 +1,10 @@
 {
-  "name": "prefs-button",
-  "fullName": "prefs-button",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+    "name": "prefs-button", 
+    "license": "MPL 2.0", 
+    "author": "Sajjad Anwar", 
+    "version": "0.1", 
+    "fullName": "Preferences Button", 
+    "id": "jid1-r8ELfllm0p5u9Q", 
+    "dependencies": ["vold-utils","toolbarbutton", "api-utils"],
+    "description": "Adds a preferences toolbar button."
 }

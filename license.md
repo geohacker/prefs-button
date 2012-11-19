@@ -1,0 +1,1 @@
+Gear icon from The Noun Project - http://thenounproject.com/noun/gears/#icon-No179
